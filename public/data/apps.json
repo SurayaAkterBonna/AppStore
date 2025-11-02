@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "image": "https://source.unsplash.com/400x400/?chat,app",
+    "title": "ChatterBox",
+    "companyName": "LightWave",
+    "description": "A fast and private messaging app with group features and themes.",
+    "size": 42,
+    "reviews": 1234,
+    "ratingAvg": 4.5,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 384 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://source.unsplash.com/400x400/?music,app",
+    "title": "TuneFlow",
+    "companyName": "PixelBeat",
+    "description": "Stream millions of songs with playlists and offline mode.",
+    "size": 58,
+    "reviews": 8900,
+    "ratingAvg": 4.3,
+    "downloads": 860000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://source.unsplash.com/400x400/?game,app",
+    "title": "AstroRally",
+    "companyName": "NebulaWorks",
+    "description": "Fast-paced space racing with online leaderboards.",
+    "size": 110,
+    "reviews": 4300,
+    "ratingAvg": 4.7,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 3605 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://source.unsplash.com/400x400/?photo,app",
+    "title": "SnapStudio",
+    "companyName": "FotoCorp",
+    "description": "Pro photo editor with layers, filters, and raw support.",
+    "size": 78,
+    "reviews": 2100,
+    "ratingAvg": 4.1,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 560 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://source.unsplash.com/400x400/?fitness,app",
+    "title": "FitOrbit",
+    "companyName": "HealthWave",
+    "description": "Personal workouts, meal plans and progress tracking.",
+    "size": 36,
+    "reviews": 520,
+    "ratingAvg": 4.2,
+    "downloads": 98000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 200 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://source.unsplash.com/400x400/?travel,app",
+    "title": "WayFinder",
+    "companyName": "RoamTech",
+    "description": "Offline maps, route planner and local recommendations.",
+    "size": 95,
+    "reviews": 1345,
+    "ratingAvg": 4.4,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 640 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://source.unsplash.com/400x400/?notes,app",
+    "title": "NoteWise",
+    "companyName": "Paperless",
+    "description": "Flexible notes with markdown support and sync.",
+    "size": 12,
+    "reviews": 980,
+    "ratingAvg": 4.6,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 590 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://source.unsplash.com/400x400/?shopping,app",
+    "title": "Cartly",
+    "companyName": "MarketX",
+    "description": "Smart shopping list and deals aggregator.",
+    "size": 28,
+    "reviews": 470,
+    "ratingAvg": 3.9,
+    "downloads": 92000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 170 },
+      { "name": "5 star", "count": 80 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://source.unsplash.com/400x400/?learn,app",
+    "title": "CodeSpark",
+    "companyName": "ByteLab",
+    "description": "Interactive coding lessons for beginners.",
+    "size": 65,
+    "reviews": 3000,
+    "ratingAvg": 4.8,
+    "downloads": 580000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://source.unsplash.com/400x400/?finance,app",
+    "title": "Spendly",
+    "companyName": "CoinSight",
+    "description": "Personal finance tracker and budget planner.",
+    "size": 22,
+    "reviews": 1250,
+    "ratingAvg": 4.0,
+    "downloads": 240000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://source.unsplash.com/400x400/?food,app",
+    "title": "CookMate",
+    "companyName": "Kitchenly",
+    "description": "Recipes, shopping list and step-by-step cooking.",
+    "size": 30,
+    "reviews": 640,
+    "ratingAvg": 4.2,
+    "downloads": 125000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 250 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://source.unsplash.com/400x400/?health,app",
+    "title": "MediTrack",
+    "companyName": "WellPoint",
+    "description": "Medication reminders and health logs.",
+    "size": 18,
+    "reviews": 410,
+    "ratingAvg": 4.0,
+    "downloads": 83000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 140 },
+      { "name": "5 star", "count": 158 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://source.unsplash.com/400x400/?widget,app",
+    "title": "WidgetBox",
+    "companyName": "UX Labs",
+    "description": "Widgets for your home screen and quick actions.",
+    "size": 8,
+    "reviews": 190,
+    "ratingAvg": 4.4,
+    "downloads": 54000,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 126 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://source.unsplash.com/400x400/?calendar,app",
+    "title": "DayPlan",
+    "companyName": "OrganizeIt",
+    "description": "Calendar, tasks and daily focus mode.",
+    "size": 16,
+    "reviews": 720,
+    "ratingAvg": 4.3,
+    "downloads": 93000,
+    "ratings": [
+      { "name": "1 star", "count": 16 },
+      { "name": "2 star", "count": 24 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 420 }
+    ]
+  }
+]
